@@ -1,0 +1,4 @@
+lm35		KEYWORD1
+lm_t		KEYWORD2
+t_ceusius	KEYWORD2
+t_fahrenheit	KEYWORD2
